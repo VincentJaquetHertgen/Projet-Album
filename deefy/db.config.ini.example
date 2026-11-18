@@ -1,0 +1,6 @@
+; Copier ce fichier en db.config.ini et adapter les valeurs
+driver=mysql
+host=localhost
+database=deefy
+username=root
+password=

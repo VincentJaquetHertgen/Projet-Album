@@ -1,0 +1,4 @@
+# Protège les fichiers sensibles (config BD, scripts SQL)
+<FilesMatch "\.(ini|sql|md|json|lock|example)$">
+    Require all denied
+</FilesMatch>
